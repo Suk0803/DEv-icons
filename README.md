@@ -1,2 +1,2 @@
 # DEv-icons
-Thx for [devicon.dev](devicon.dev)
+Thx for [devicon.dev](https://devicon.dev)
